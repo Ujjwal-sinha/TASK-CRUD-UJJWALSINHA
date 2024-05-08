@@ -22,5 +22,7 @@ FEW PHOTOS :-
 
 ![Screenshot (309)](https://github.com/Ujjwal-sinha/TASK-CRUD-UJJWALSINHA/assets/115147132/874ee624-5018-4810-aec4-52fd27ca100c)
 
+THE DEMO VIDEO :
+https://youtu.be/rrLTOxy8Nps?feature=shared
 
 THANK YOU!!
